@@ -15,6 +15,9 @@ Atuando no mercado de TI desde 1994 nas mais diversas áreas como Desenvolviment
 
 Interesse em Administração de Servidores de Aplicação Web Java, Desenvolvimento WEB nas tecnologias JEE e PHP, Administração de Redes de computadores Linux, Segurança da Informação e Otimização de Algoritmos.
 
+## Curriculum Vitae
+Acesse aqui meu [Curriculum Vitae](curriculum.md) atualizado.
+
 # Especialidades
 - Administração de Servidores de Aplicação Java EE;
 - Otimização de Aplicações Java;
