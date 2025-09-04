@@ -5,5 +5,5 @@ plugins:
 sass:
   style: compressed
 
-include:
-  - _includes/head-custom.html
+#include:
+#  - _includes/head-custom.html
