@@ -1,0 +1,19 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Fundo e fonte */
+body {
+  background-color: #121212; /* cor escura */
+  color: #e0e0e0; /* cor da fonte */
+  font-family: "Segoe UI", Arial, sans-serif;
+}
+
+/* Links */
+a {
+  color: #00bcd4;
+}
+a:hover {
+  color: #ff9800;
+}
