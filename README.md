@@ -1,3 +1,6 @@
+<p align="center" width="100%">
+    <img width="66%" src="bsb_logo.png"> 
+</p>
 
 Bem-vindo ao meu Website pessoal!
 
@@ -7,9 +10,6 @@ Espaço dedicado para publicação de documentações e anotações relevantes p
 
 Contato por e-mail: <alex.moreira@gmail.com>
 
-<p align="center" width="100%">
-    <img width="66%" src="bsb_logo.png"> 
-</p>
 
 # Sobre
 Atuando no mercado de TI desde 1994 nas mais diversas áreas, tais como Desenvolvimento de Sistemas, Consultor técnico, Administração de Redes de computadores e de Servidores de Aplicação Java. Especialista Linux. Atualmente exercendo o cargo de Técnico Judiciário no [Tribunal Regional Federal da Primeira Região - TRF1](https://www.trf1.jus.br/trf1/home/), responsável pela Administração do parque de servidores Linux utilizados pelas aplicações que atendem todo jurisdicionado da Justiça Federal da Primeira Região.
