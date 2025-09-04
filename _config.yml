@@ -1,5 +1,8 @@
 title: Alexander Moreira de Morais
 tagline: Website pessoal
+site:
+  - lang: pt-BR
+  - charset: UTF-8
 
 theme: jekyll-theme-midnight
 plugins:
