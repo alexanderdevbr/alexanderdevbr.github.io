@@ -1,5 +1,7 @@
-theme: minima
+#theme: minima
+remote_theme: jglovier/resume-template 
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
 
 sass:
