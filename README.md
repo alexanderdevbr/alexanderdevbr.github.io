@@ -1,12 +1,16 @@
 <p align="center" width="100%">
-    <img width="66%" src="bsb_logo.png"> 
+    <img width="66%" src="./assets/img/bsb_logo.png"> 
 </p>
 
-Bem-vindo ao meu Website pessoal!
+Bem-vindo(a) ao meu Website pessoal!
 
-Espaço dedicado para publicação de documentações e anotações relevantes para acesso público.
+Este espaço é dedicado para publicação de documentações, anotações e coisas relevantes de acesso público.
 
-<https://alexander.dev.br> Website criado utilizado o Framework [GoHugo](https://gohugo.io/) para construção deste website, hospedado gratuitamente em [Netlify](https://app.netlify.com).
+Para maiores informações, acesse o <https://alexander.dev.br>.
+
+<!-- 
+Website criado utilizado o Framework [GoHugo](https://gohugo.io/) para construção deste website, hospedado gratuitamente em [Netlify](https://app.netlify.com).
+-->
 
 Contato por e-mail: <alex.moreira@gmail.com>
 
@@ -14,9 +18,13 @@ Contato por e-mail: <alex.moreira@gmail.com>
 # Sobre
 Atuando no mercado de TI desde 1994 nas mais diversas áreas, tais como Desenvolvimento de Sistemas, Consultor técnico, Administração de Redes de computadores e de Servidores de Aplicação Java. Especialista Linux. Atualmente exercendo o cargo de Técnico Judiciário no [Tribunal Regional Federal da Primeira Região - TRF1](https://www.trf1.jus.br/trf1/home/), responsável pela Administração do parque de servidores Linux utilizados pelas aplicações que atendem todo jurisdicionado da Justiça Federal da Primeira Região.
 
-Interesse em Administração de Servidores de Aplicação Web Java, Desenvolvimento WEB nas tecnologias JEE e PHP, Otimização de Algoritmos, Administração de Redes e computadores com ambiente Linux, Segurança da Informação e Automatização de tarefas. Entusiasta na cultura DevSecOps, pelo fato de possuir conhecimentos tanto em Desenvolvimento como em Operações, possuo um perfil facilitador de integração entre as equipes de DEV e OPS.
+# Interesses
+Administração de Servidores de Aplicação Web Java, Desenvolvimento WEB nas tecnologias JEE e PHP, Otimização de Algoritmos, Administração de Redes e computadores em ambiente Linux, Segurança da Informação e Automatização de tarefas. 
 
-Como experiência acadêmica, sou atualmente Graduado no curso de Tecnologia em Processamento de Dados pelo Instituto Unificado de Ensino Superior Objetivo.
+Entusiasta da cultura DevSecOps, pelo fato de possuir conhecimentos nas áreas de Desenvolvimento quanto em Segurança e Operações, possuo um perfil facilitador de integração entre as equipes de DEV, SEC e OPS.
+
+# Experiência Acadêmica
+sou atualmente Graduado no curso de Tecnologia em Processamento de Dados pelo Instituto Unificado de Ensino Superior Objetivo.
 
 Pós-Graduado em Orientação a Objetos e Programação para Internet pela UniANHANGUERA.
 
@@ -24,14 +32,14 @@ Pós-Graduado em Ciência de Dados e Big Data Analytics pela Faculdade Metropoli
 
 _Pós-Graduando em Desenvolvimento Web pelo IFSULDEMINAS_.
 
-## Curriculum Vitae
-Acesse aqui meu [Currículo](curriculum.md) atualizado.
+# Curriculum Vitae
+Para maiores informações, acesse aqui meu [Currículo](curriculum.md) atualizado.
 
 # Especialidades
-- Administração de Servidores de Aplicação Java EE;
-- Otimização de Aplicações Java;
 - Programação Orientada a Objetos;
+- Otimização de Aplicações Java e PHP;
 - Administração de ambientes Linux;
+- Administração de Servidores de Aplicação Java EE;
 
 # Github
 <https://github.com/alexanderdevbr>
