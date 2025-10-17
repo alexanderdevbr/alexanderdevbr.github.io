@@ -66,7 +66,7 @@ Pós-Graduação "_Latu Sensu_" com 360h de carga horária, realizado pelo [Inst
   </tr></thead>
 <tbody>
   <tr>
-    <td class="tg-0pky">Programador Júnior - CA Clipper + dBase</td>
+    <td class="tg-0pky">Programador Júnior - CA Clipper 5.2 + dBASE III</td>
     <td class="tg-0pky">20/11/1997</td>
     <td class="tg-dvpl">72 horas</td>
     <td class="tg-0pky">Micro House Informática</td>
