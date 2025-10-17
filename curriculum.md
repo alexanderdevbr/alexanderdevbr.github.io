@@ -127,6 +127,6 @@ Pós-Graduação "_Latu Sensu_" com 360h de carga horária, realizado pelo [Inst
 - Oracle Cloud Infraestructure Certified Foundations Associate, 30/03/2022 - 1Z0-1085-21
 - Red Hat Certified JBoss Administrator JBoss EAP 6, 18/10/2013 – RHCJA
 
-# Projetos
+# [Projetos](projetos.md)
 
 # Experiência Profissional

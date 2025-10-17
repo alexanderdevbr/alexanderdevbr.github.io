@@ -36,10 +36,10 @@ _Pós-Graduando em Desenvolvimento Web pelo IFSULDEMINAS_.
 Para maiores informações, acesse aqui meu [Currículo](curriculum.md) atualizado.
 
 # Especialidades
-- Programação Orientada a Objetos;
-- Otimização de Aplicações Java e PHP;
 - Administração de ambientes Linux;
-- Administração de Servidores de Aplicação Java EE;
+- Administração de Servidores de Aplicação Java EE [Wildfly](https://www.wildfly.org/);
+- Programação Orientada a Objetos;
+- Otimização de Aplicações Java e PHP.
 
 # Github
 <https://github.com/alexanderdevbr>
