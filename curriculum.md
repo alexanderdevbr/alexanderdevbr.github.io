@@ -1,4 +1,7 @@
+<p align="right"><em>Atualizado em  {{ site.time | date: "%Y-%m-%d %H:%M" }}</em></p>
+
 # Currículo
+
 **[Alexander Moreira de Morais](https://www.linkedin.com/in/alexandermorais/)** 
 
 Nascido em 02/07/1982, natural de [Piracanjuba–GO](https://pt.wikipedia.org/wiki/Piracanjuba). Atualmente residindo em [Brasília–DF](https://pt.wikipedia.org/wiki/Bras%C3%ADlia) desde 2009.
@@ -102,31 +105,105 @@ Pós-Graduação "_Latu Sensu_" com 360h de carga horária, realizado pelo [Inst
     <td class="tg-0pky">Introspecção, Monitoração e Disponibilidade de JVM com Wily Introscope</td>
     <td class="tg-0pky">26/11/2010</td>
     <td class="tg-dvpl">40 horas</td>
-    <td class="tg-0pky">Syrix</td>
+    <td class="tg-0pky">Syrix Tecnologia da Informação</td>
   </tr>
   <tr>
-    <td class="tg-0pky">JB248 – Jboss for Administrators</td>
+    <td class="tg-0pky"><a href="https://www.redhat.com/en/services/training/ad248-red-hat-jboss-application-administration-i">JB248 – Jboss for Administrators</a></td>
     <td class="tg-0pky">27/06/2013</td>
     <td class="tg-dvpl">32 horas</td>
-    <td class="tg-0pky">Red Hat</td>
+    <td class="tg-lboi"  rowspan="5"><a href="https://www.redhat.com/en">Red Hat</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Fundamentos de Aprendizagem de Máquina</td>
+    <td class="tg-0pky"><a href="https://www.redhat.com/en/services/training/rh124-red-hat-system-administration-i">RH124 - Red Hat System Administration I</a></td>
+    <td class="tg-0pky">10/06/2024</td>
+    <td class="tg-dvpl">40 horas</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><a href="https://www.redhat.com/en/services/training/rh134-red-hat-system-administration-ii">RH134 - Red Hat System Administration II</a></td>
+    <td class="tg-0pky">12/07/2024</td>
+    <td class="tg-dvpl">40 horas</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><a href="https://www.redhat.com/en/services/training/rh294-red-hat-linux-automation-with-ansible">RH294 - Red Hat Enterprise Linux Automation with Ansible</a></td>
+    <td class="tg-0pky">07/08/2024</td>
+    <td class="tg-dvpl">32 horas</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><a href="https://www.redhat.com/en/services/training/ad248-red-hat-jboss-application-administration-i">AD248 - Red Hat Enterprise Application Platform Administration I</a></td>
+    <td class="tg-0pky">13/09/2024</td>
+    <td class="tg-dvpl">40 horas</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">PostgreSQL - Administração de Banco de Dados</td>
+    <td class="tg-0pky">22/06/2015</td>
+    <td class="tg-dvpl">40 horas</td>
+    <td class="tg-0pky">Tecnisys</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><a href="https://www.estudesemfronteiras.com/cursos-online/tecnologia/fundamentos-de-aprendizagem-de-maquina-180-horas">Fundamentos de Aprendizagem de Máquina</a></td>
     <td class="tg-0pky">30/08/2022</td>
     <td class="tg-dvpl">180 horas</td>
-    <td class="tg-0pky">Faculdade Metropolitana</td>
+    <td class="tg-0pky"><a href="https://www.faculdademetropolitana.edu.br/">Faculdade Metropolitana</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><a href="https://4linux.com.br/cursos/treinamento/mysql-com-alta-performance-e-alta-disponibilidade/">MySQL - Administração com Alta Performance e Alta Disponibilidade</a></td>
+    <td class="tg-0pky">12/08/2024</td>
+    <td class="tg-dvpl">40 horas</td>
+    <td class="tg-0pky"><a href="https://4linux.com.br">4Linux</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><a href="https://www.alura.com.br/curso-online-ansible-implementando-infraestrutura-codigo">Ansible - Implementando sua Infraestrutura como Código</a></td>
+    <td class="tg-0pky">12/08/2024</td>
+    <td class="tg-dvpl">10 horas</td>
+    <td class="tg-0pky"><a href="https://www.alura.com.br/">Alura</a></td>
+  </tr>
+
+  <tr>
+    <td class="tg-0pky"><a href="https://linuxforce.com.br/cursos-de-devops/curso-de-devsecops/">DevSecOps</a></td>
+    <td class="tg-0pky">13/10/2025</td>
+    <td class="tg-dvpl">50 horas</td>
+    <td class="tg-0pky"><a href="https://linuxforce.com.br/">Linux Force Security</a></td>
   </tr>
 </tbody></table></div>
 <script charset="utf-8">var TGSort=window.TGSort||function(n){"use strict";function r(n){return n?n.length:0}function t(n,t,e,o=0){for(e=r(n);o<e;++o)t(n[o],o)}function e(n){return n.split("").reverse().join("")}function o(n){var e=n[0];return t(n,function(n){for(;!n.startsWith(e);)e=e.substring(0,r(e)-1)}),r(e)}function u(n,r,e=[]){return t(n,function(n){r(n)&&e.push(n)}),e}var a=parseFloat;function i(n,r){return function(t){var e="";return t.replace(n,function(n,t,o){return e=t.replace(r,"")+"."+(o||"").substring(1)}),a(e)}}var s=i(/^(?:\s*)([+-]?(?:\d+)(?:,\d{3})*)(\.\d*)?$/g,/,/g),c=i(/^(?:\s*)([+-]?(?:\d+)(?:\.\d{3})*)(,\d*)?$/g,/\./g);function f(n){var t=a(n);return!isNaN(t)&&r(""+t)+1>=r(n)?t:NaN}function d(n){var e=[],o=n;return t([f,s,c],function(u){var a=[],i=[];t(n,function(n,r){r=u(n),a.push(r),r||i.push(n)}),r(i)<r(o)&&(o=i,e=a)}),r(u(o,function(n){return n==o[0]}))==r(o)?e:[]}function v(n){if("TABLE"==n.nodeName){for(var a=function(r){var e,o,u=[],a=[];return function n(r,e){e(r),t(r.childNodes,function(r){n(r,e)})}(n,function(n){"TR"==(o=n.nodeName)?(e=[],u.push(e),a.push(n)):"TD"!=o&&"TH"!=o||e.push(n)}),[u,a]}(),i=a[0],s=a[1],c=r(i),f=c>1&&r(i[0])<r(i[1])?1:0,v=f+1,p=i[f],h=r(p),l=[],g=[],N=[],m=v;m<c;++m){for(var T=0;T<h;++T){r(g)<h&&g.push([]);var C=i[m][T],L=C.textContent||C.innerText||"";g[T].push(L.trim())}N.push(m-v)}t(p,function(n,t){l[t]=0;var a=n.classList;a.add("tg-sort-header"),n.addEventListener("click",function(){var n=l[t];!function(){for(var n=0;n<h;++n){var r=p[n].classList;r.remove("tg-sort-asc"),r.remove("tg-sort-desc"),l[n]=0}}(),(n=1==n?-1:+!n)&&a.add(n>0?"tg-sort-asc":"tg-sort-desc"),l[t]=n;var i,f=g[t],m=function(r,t){return n*f[r].localeCompare(f[t])||n*(r-t)},T=function(n){var t=d(n);if(!r(t)){var u=o(n),a=o(n.map(e));t=d(n.map(function(n){return n.substring(u,r(n)-a)}))}return t}(f);(r(T)||r(T=r(u(i=f.map(Date.parse),isNaN))?[]:i))&&(m=function(r,t){var e=T[r],o=T[t],u=isNaN(e),a=isNaN(o);return u&&a?0:u?-n:a?n:e>o?n:e<o?-n:n*(r-t)});var C,L=N.slice();L.sort(m);for(var E=v;E<c;++E)(C=s[E].parentNode).removeChild(s[E]);for(E=v;E<c;++E)C.appendChild(s[v+L[E-v]])})})}}n.addEventListener("DOMContentLoaded",function(){for(var t=n.getElementsByClassName("tg"),e=0;e<r(t);++e)try{v(t[e])}catch(n){}})}(document)</script>
 
 ## Certificações
-- SCJP, Sun Certified Programmer for the Java 2 Platform 1.4 Sun Microsystem, 27/07/2007 – CX-310-035
-- SCWCD, Sun Certified Web Component Developer for Java Platform Enterprise Edition 5, 29/06/2009 – CX-310-083
-- OCA, Oracle Application Server 10g: Administration I, 22/04/2009 – 1Z0-311
-- Oracle Linux Certified Implementation Specialist, 09/12/2015 – 1Z0-409
-- Oracle Cloud Infraestructure Certified Foundations Associate, 30/03/2022 - 1Z0-1085-21
-- Red Hat Certified JBoss Administrator JBoss EAP 6, 18/10/2013 – RHCJA
+- [Sun Certified Programmer for the Java 2 Platform 1.4 Sun Microsystem](assets/img/certificados/java-scjp.jpg), SCJP, 27/07/2007 – CX-310-035
+- [Sun Certified Web Component Developer for Java Platform Enterprise Edition 5](assets/img/certificados/java-scwcd.jpg), SCWCD, 29/06/2009 – CX-310-083
+- [Oracle Application Server 10g: Administration I](assets/img/certificados/oracle-1z0-311.jpg), OCA, 22/04/2009 – 1Z0-311
+- [Oracle Linux Certified Implementation Specialist](assets/img/certificados/oracle-1z0-409.jpg), 09/12/2015 – 1Z0-409
+- [Oracle Cloud Infraestructure Certified Foundations Associate](assets/img/certificados/oracle-1z0-1085-21.jpg), 30/03/2022 - 1Z0-1085-21
+- [Red Hat Certified JBoss Administrator JBoss EAP 6](assets/img/certificados/redhat-rhcja.jpg), 18/10/2013 – RHCJA
 
 # [Projetos](projetos.md)
 
 # Experiência Profissional
+
+## Tribunal Regional Federal da 1ª Região - TRF1
+**Período:** Julho de 2014 e atualmente em exercício.
+Técnico Judiciário com apoio especializado em Informática atuando como Administrador de Servidor de Aplicação JEE em ambiente heterogêneo com base em Jboss e Apache Tomcat. Administração de sistemas operacionais Linux. Responsável pela infra-estrutura que suporta os sistemas de Processo Judicial Eletrônico – PJe e SEI.
+
+## CTIS Tecnologia S.A.
+**Período:** Maio de 2009 a Junho de 2018.
+Administrador de Servidor de Aplicação – ASA, JEE em ambiente integrado Oracle (Oracle Aplication Server 10g R2 e R3, Oracle Database Server 10g); Responsável por administrar todo o parque de Servidores de Aplicação do TSE, incluindo o Cadastro Eleitoral (ELO), Ambiente Intranet e Internet; Administração F5 Big IP; Especialista em Apache Tomcat e JBoss Application Server.
+
+## Agência Brasileira de Inteligência - ABIN
+**Período:** Fevereiro de 2011 a Dezembro 2013.
+Pesquisador / Desenvolvedor Web Java EE – Participação no Projeto de implantação do Sistema de Gestão de Atividades Acadêmicas – SIGAA, desenvolvido plea Universidade Federal do Rio Grande do Norte – UFRN, adaptando a solução de administração interna e gestão de pessoas à realidade da ABIN; Utilização de Hibernate 3.2, Java Server Faces 1.2/RichFaces 3.2, Struts 1.2, EJB 2.1, Spring 2.5; Administrador do ambiente de Servidores de Aplicação Web JEE com JBoss.
+
+## Unimix Tecnologia Ltda
+### Sede Brasília e Filial Goiânia
+**Período:** Março de 2007 a Abril de 2009
+Consultor Técnico atuando como Administrador de Servidor de Aplicação ASA, Arquiteto de Software e Programador Web Java J2EE em ambiente integrado Oracle (Oracle Aplication Server 10g R2, Oracle JDeveloper 10g, Oracle Database Server 10g); Administração do banco de dados e servidores de aplicação; Responsável pelo repositório de versionamento Subversion; ‘Team Lider’ da equipe de desenvolvimento. Atendimento em clientes (TSE, TST, STJ, CJF, TCU e TCDF) resolvendo chamados técnicos e executando POC´s como especialista Oracle Application Server.
+
+### Outsourcing lotado Secretaria de Segurança Pública de Goiás - SSP/GO
+**Período:** Janeiro de 2006 a Março de 2007
+Programador web Java J2EE; Programador Web na linguagem PHP 4.x; Consultor na administração do Banco de Dados (SGBD Oracle 10g) e Administrador de Servidor de Aplicação – ASA (Oracle Application Server 10g R2) da SSP/GO.
+
+## Rh Tron Informática Ltda
+**Período:** Maio de 2004 a Janeiro de 2006
+Programador na linguagem Delphi em toda suíte TGC (Contabilidade Geral, Escrita Fiscal, Livro Caixa, Lalur, Controle Patrimonial, Medicina do Trabalho, Folha de Pagamento e Ponto Eletrônico) elaboração de relatórios com Report Builder 7, Programador Web para sistemas internos na linguagem PHP, Administrador dos servidores E-mail/Internet/Rede, manutenção de servidor HTTP e FTP (remotamente), Responsável pela manutenção da rede baseada no protocolo TCP/IP e IPX/SPX, Responsável pelo licenciamento dos softwares Microsoft (sistema operacional Windows XP SP2, Windows Server 2003, MS Project, MS Office 2003, MS FrontPage).
+
+## Projeção Informática Ltda
+**Período:** Janeiro de 2003 a Março de 2004
+Programador na linguagem Delphi, Programador Web na linguagem PHP, preparação e manutenção nos servidores de Rede, Internet, E-mail, FTP e banco de dados Oracle (8i e 9i). Montagem e Configuração de Microcomputadores de clientes.
