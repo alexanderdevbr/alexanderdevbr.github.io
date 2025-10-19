@@ -6,8 +6,6 @@ Bem-vindo(a) ao meu Website pessoal!
 
 Este espaço é dedicado para publicação de documentações, anotações e coisas relevantes de acesso público.
 
-Para maiores informações, acesse o <https://alexander.dev.br>.
-
 <!-- 
 Website criado utilizado o Framework [GoHugo](https://gohugo.io/) para construção deste website, hospedado gratuitamente em [Netlify](https://app.netlify.com).
 -->
@@ -33,7 +31,7 @@ Pós-Graduado em Ciência de Dados e Big Data Analytics pela Faculdade Metropoli
 _Pós-Graduando em Desenvolvimento Web pelo IFSULDEMINAS_.
 
 # Curriculum Vitae
-Para maiores informações, acesse aqui meu [Currículo](curriculum.md) atualizado.
+Para maiores informações, acesse aqui meu [Currículo](curriculum.md) atualizado, ou, plataforma [Lattes](https://lattes.cnpq.br/5845632929213348).
 
 # Especialidades
 - Administração de ambientes Linux;
