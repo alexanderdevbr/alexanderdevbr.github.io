@@ -37,17 +37,20 @@ Pós-Graduado em Ciência de Dados e Big Data Analytics pela Faculdade Metropoli
 
 Atualmente _Pós-Graduando em Desenvolvimento Web pelo IFSULDEMINAS_.
 
-# Curriculum Vitae
-Para maiores informações, acesse aqui meu [Currículo](curriculum.md) atualizado, ou, plataforma [Lattes](https://lattes.cnpq.br/5845632929213348).
-
 # Especialidades
 - Administração de ambientes Linux;
 - Administração de Servidores de Aplicação Java EE Wildfly;
 - Programação Orientada a Objetos;
 - Otimização de Aplicações Java e PHP.
 
+# Curriculum Vitae
+Para maiores informações, acesse aqui meu [Currículo](curriculum.md) atualizado, ou, plataforma [Lattes](https://lattes.cnpq.br/5845632929213348).
+
 # [Projetos](projetos.md)
 Página com os principais [Projetos](projetos.md) que tive a oportunidade de participar.
 
 # Github
 <https://github.com/alexanderdevbr>
+
+# LinkedIn
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="alexandermorais" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/alexandermorais/pt?trk=profile-badge">Alexander Moreira</a></div>

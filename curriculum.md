@@ -228,7 +228,7 @@ Programador na linguagem Delphi em toda suíte TGC (Contabilidade Geral, Escrita
 Programador na linguagem Delphi, Programador Web na linguagem PHP, preparação e manutenção nos servidores de Rede, Internet, E-mail, FTP e banco de dados Oracle (8i e 9i). Montagem e Configuração de Microcomputadores de clientes.
 
 ## 2º Tabelionato de Notas e Ofício do Registro de Imóveis
-**Período:** Novembro de 1994 a Fevereiro de 2000.<br/>
+**Período:** Novembro de 1995 a Fevereiro de 2000.<br/>
 Técnico em informática, responsável pela processo de informatização do Cartório. Atuando na definição da topologia de rede de computadores Novell, servidor de arquivos, servidor de impressão e com manutenção de equipamentos. Programador na linguagem CA Clipper e dBASE III para criação dos sistemas voltados para Registro de Imóveis, reconhecimento de Firmas, Registro de Títuloese Documentos e Protestos de Títulos.
 
 # [Projetos](projetos.md)
