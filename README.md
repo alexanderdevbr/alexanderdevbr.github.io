@@ -19,7 +19,7 @@ Atuando no mercado de TI desde 1995 nas mais diversas áreas, tais como Desenvol
 Atualmente exercendo o cargo de [**Técnico Judiciário**](assets/pdf/concursos/trf1/dou_1078_24-06-2014.pdf) no [Tribunal Regional Federal da Primeira Região - TRF1](https://www.trf1.jus.br/trf1/home/), atuando como responsável técnico pela administração do parque de servidores Linux, utilizados pelas aplicações que atendem todo o jurisdicionado da Justiça Federal da Primeira Região, composta atualmente por [13 Seções Judiciárias](https://www.trf1.jus.br/trf1/secoes-judiciarias/introducao) para 1º Grau (_Sendo uma SJ para cada Unidades da Federação_), e o próprio Tribunal Regional Federal da 1ª Região para 2º Grau.
 
 # Interesses
-+ Infraestrutura de computadores com ênfase na Administração de Servidores de Aplicação Web Java;
++ Infraestrutura com ênfase na Administração de Servidores de Aplicação Web Java;
 + Administração de Redes e computadores em ambiente _Linux Like_;
 + Desenvolvimento WEB nas tecnologias Java (JEE) e PHP;
 + Otimização de Algoritmos;
