@@ -24,7 +24,7 @@ Cluster como Solução de Baixo Custo para Processamento em Grande Escala; 2007;
 Pós-Graduação "_Latu Sensu_" com 600h de carga horária, realizado pela [Faculdade Metropolitana do Estado de São Paulo - FAMEESP](https://www.faculdademetropolitana.edu.br/a-instituicao), com início em julho de 2022 e conclusão em janeiro de 2023.
 
 ### Especialização em Desenvolvimento Web
-Pós-Graduação "_Latu Sensu_" com 360h de carga horária, realizado pelo [Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas - IFSULDEMINAS, Campos Passos](https://portal.pas.ifsuldeminas.edu.br/sobre-o-campus), com início em setembro de 2025 e **_atualmente cursando_**.
+Pós-Graduação "_Latu Sensu_" com 360h de carga horária, realizado pelo [Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas - IFSULDEMINAS, Campos Passos](https://portal.pas.ifsuldeminas.edu.br/sobre-o-campus), com início em setembro de 2025 e previsão de término em setembro de 2026 (**_atualmente cursando_**).
 
 # Conhecimentos Específicos
 
