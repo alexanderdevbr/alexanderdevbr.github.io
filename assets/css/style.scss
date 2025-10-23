@@ -17,3 +17,36 @@ a {
 a:hover {
   color: #ff9800;
 }
+
+/* Primeiro, esconda o elemento na visualização normal (tela) */
+.only-print {
+  display: none;
+}
+
+@media print {
+  /* Agora, mostre o elemento apenas na impressão */
+  .only-print {
+    display: block; /* Ou inline, flex, etc., dependendo do seu layout */
+  }
+
+  /* E mantenha a regra para esconder o outro conteúdo */
+  .no-print {
+    display: none;
+  }
+}
+
+/* Não imprimir conteúdo dentro da div */
+@media print {
+  .no-print {
+    display: none;
+  }
+}
+
+/* Quebra página*/
+@media print {
+  .page-break {
+    page-break-after: always; /* Padrão antigo, mas com alta compatibilidade */
+    break-after: page;      /* Padrão mais novo */
+    visibility: hidden;     /* Esconde o div em si */
+  }
+}

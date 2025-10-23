@@ -1,4 +1,5 @@
 # Participação em Projetos
+Profissional com ampla experiência em Tecnologia da Informação aplicada ao setor público, com atuação em projetos estratégicos desenvolvidos no Tribunal Regional Federal da 1ª Região (TRF1), Tribunal Superior Eleitoral (TSE) e Agência Brasileira de Inteligência (Abin). Ao longo da carreira, contribuí para iniciativas voltadas ao desenvolvimento e integração de sistemas corporativos, modernização de infraestruturas tecnológicas e implantação de soluções de automação e segurança da informação. Minha trajetória reflete sólida base técnica, visão sistêmica e compromisso com a entrega de resultados que promovem eficiência, inovação e fortalecimento institucional.
 
 Abaixo, alguns dos projetos que tive grata satisfação  participar direta ou indiretamente, contribuindo na elaboração, execução e finalização.
 
@@ -11,6 +12,10 @@ Participação no projeto de implantação da solução de Processo Judicial Ele
 ### [Implantação do Processo Administrativo Eletrônico (PAe/SEi)](https://www.trf1.jus.br/trf1/noticias/10-anos-do-sei-como-o-sistema-eletronico-transformou-a-justica-federal-da-1-regiao-na-ultima-decada-)
 **Agosto/2014**<br/>
 Participação no projeto de implantação do novo Processo Administrativo Eletrônico (PAe) da Justiça Federal da 1ª Região - TRF1, atuando na definição da topologia de servidores dos ambientes de Desenvolvimento, Homologação e Produção. Para esta implantação, foram utilizadas tecnologias Open Source (Apache, PHP, SOLr, JODA) e proprietárias (Oracle e Red Hat) como suporte ao Sistema Eletrônico de Informações (SEI), desenvolvido pelo TRF da 4ª Região.
+
+<!-- incluindo quebra de página de impressão -->
+<div class="page-break"></div>
+<div class="only-print"><br/><br/></div>
 
 ## Justiça Eleitoral - Tribunal Superior Eleitoral (TSE)
 
@@ -39,6 +44,10 @@ Participação na definição e criação de solução para gerenciamento unific
 ### [Plebiscito Divisão do Pará](https://www.tse.jus.br/eleicoes/plebiscitos-e-referendos/plebiscito-do-estado-do-para/plebiscitos-no-estado-do-para)
 **Maio/2011 - Dezembro/2011**<br/>
 Atuando nos testes e simulações dos sistemas informatizados desenvolvidos pelo Tribunal Superior Eleitoral ou sob sua encomenda, utilizados nas consultas plebiscitárias sobre a divisão do Estado do Pará para a criação do Estado do Carajás e/ou do Estado do Tapajós, conforme [Atos preparatorios](https://www.justicaeleitoral.jus.br/arquivos/dispoe-sobre-os-atos-preparatorios-a-recepcao-de/@@display-file/file/TSE-dispoe-sobre-os-atos-preparatorios-a-recepcao.pdf) para a recepção de votos, as garantias, a justificativa, a totalização, a divulgação e a proclamação dos resultados para os plebiscitos no Estado do Pará.
+
+<!-- incluindo quebra de página de impressão -->
+<div class="page-break"></div>
+<div class="only-print"><br/><br/></div>
 
 ### Reestruturação dos Servidores de Aplicação
 **Outubro/2010 - Dezembro/2011**<br/>

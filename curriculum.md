@@ -5,8 +5,14 @@
 **[Alexander Moreira de Morais](https://www.linkedin.com/in/alexandermorais/)** 
 
 Nascido em 02/07/1982, natural de [Piracanjuba–GO](https://pt.wikipedia.org/wiki/Piracanjuba). Atualmente residindo em [Brasília–DF](https://pt.wikipedia.org/wiki/Bras%C3%ADlia) desde 2009.
-
 Contato <alex.moreira@gmail.com>
+
+<div class="only-print">
+  <p>
+    Perfil no LinkedIn <a href="https://www.linkedin.com/in/alexandermorais/">https://www.linkedin.com/in/alexandermorais</a><br/>
+    Website Pessoal <a href="https://alexander.dev.br/">https://alexander.dev.br</a>
+  </p>
+</div>
 
 # Formação Acadêmica
 ## Graduação
@@ -26,8 +32,11 @@ Pós-Graduação "_Latu Sensu_" com 600h de carga horária, realizado pela [Facu
 ### Especialização em Desenvolvimento Web
 Pós-Graduação "_Latu Sensu_" com 360h de carga horária, realizado pelo [Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas - IFSULDEMINAS, Campos Passos](https://portal.pas.ifsuldeminas.edu.br/sobre-o-campus), com início em setembro de 2025 e previsão de término em setembro de 2026 (**_atualmente cursando_**).
 
-# Conhecimentos Específicos
+<!-- incluindo quebra de página de impressão -->
+<div class="page-break"></div>
+<div class="only-print"><br/><br/></div>
 
+# Conhecimentos Específicos
 ## Cursos e capacitações
 <!--
 | Curso                                                                  | Conclusão  | Carga Horária | Instituição                              |
@@ -196,6 +205,10 @@ Pós-Graduação "_Latu Sensu_" com 360h de carga horária, realizado pelo [Inst
 - [Oracle Cloud Infraestructure Certified Foundations Associate](assets/img/certificados/oracle-1z0-1085-21.jpg), 30/03/2022 - 1Z0-1085-21
 - [Red Hat Certified JBoss Administrator JBoss EAP 6](assets/img/certificados/redhat-rhcja.jpg), 18/10/2013 – RHCJA
 
+<!-- incluindo quebra de página de impressão -->
+<div class="page-break"></div>
+<div class="only-print"><br/><br/></div>
+
 # Experiência Profissional
 
 ## Tribunal Regional Federal da 1ª Região - TRF1
@@ -219,6 +232,10 @@ Consultor Técnico atuando como Administrador de Servidor de Aplicação ASA, Ar
 **Período:** Janeiro de 2006 a Março de 2007.<br/>
 Programador web Java J2EE; Programador Web na linguagem PHP 4.x; Consultor na administração do Banco de Dados (SGBD Oracle 10g) e Administrador de Servidor de Aplicação – ASA (Oracle Application Server 10g R2) da SSP/GO.
 
+<!-- incluindo quebra de página de impressão -->
+<div class="page-break"></div>
+<div class="only-print"><br/><br/></div>
+
 ## Rh Tron Informática Ltda
 **Período:** Maio de 2004 a Janeiro de 2006.<br/>
 Programador na linguagem Delphi em toda suíte TGC (Contabilidade Geral, Escrita Fiscal, Livro Caixa, Lalur, Controle Patrimonial, Medicina do Trabalho, Folha de Pagamento e Ponto Eletrônico) elaboração de relatórios com Report Builder 7, Programador Web para sistemas internos na linguagem PHP, Administrador dos servidores E-mail/Internet/Rede, manutenção de servidor HTTP e FTP (remotamente), Responsável pela manutenção da rede baseada no protocolo TCP/IP e IPX/SPX, Responsável pelo licenciamento dos softwares Microsoft (sistema operacional Windows XP SP2, Windows Server 2003, MS Project, MS Office 2003, MS FrontPage).
@@ -230,6 +247,10 @@ Programador na linguagem Delphi, Programador Web na linguagem PHP, preparação 
 ## 2º Tabelionato de Notas e Ofício do Registro de Imóveis
 **Período:** Novembro de 1995 a Fevereiro de 2000.<br/>
 Técnico em informática, responsável pela processo de informatização do Cartório. Atuando na definição da topologia de rede de computadores Novell, servidor de arquivos, servidor de impressão e com manutenção de equipamentos. Programador na linguagem CA Clipper e dBASE III para criação dos sistemas voltados para Registro de Imóveis, reconhecimento de Firmas, Registro de Títuloese Documentos e Protestos de Títulos.
+
+<!-- incluindo quebra de página de impressão -->
+<div class="page-break"></div>
+<div class="only-print"><br/><br/></div>
 
 # [Projetos](projetos.md)
 Página com os principais [Projetos](projetos.md) que tive a oportunidade de participar.
