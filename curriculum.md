@@ -290,7 +290,7 @@ Listagem dos Concursos Públicos em que logrei êxito sendo aprovado.
 |              | 01/02/2024  | [Email SERPRO Convocação fevereiro/2024.2](assets/pdf/concursos/serpro/01-email_convocacao.png) |
 | [Ministério do Planejamento e Orçamento](https://www.gov.br/planejamento/pt-br)          | 30/10/2024  | [DOU - Nº 189. Seção 3, Pág. 148, de 30 de Setembro de 2024 - Resultado Final](assets/pdf/concursos/mpo/DOU_n189_30-09-2024.pdf) |
 | [Conselho Nacional de Justiça](https://www.cnj.jus.br/)          | 21/10/2024  | [DOU - Nº 204, Seção 3, Pág 156, de 21 de Outubro de 2024 - Resultado Final](assets/pdf/concursos/cnj/DOU_n204_21-10-2024.pdf) |
-|              | 17/11/2025  | [DOU - Nº 219, Seção 2, Pág 61, de 17 de Novembro de 2025 - Nomeação CNJ](assets/pdf/concursos/cnj/DOU_n219_17-11-2025_nomeacao-AJTI.pdf) |
+|              | 17/11/2025  | [DOU - Nº 219, Seção 2, Pág 62, de 17 de Novembro de 2025 - Nomeação CNJ](assets/pdf/concursos/cnj/DOU_n219_17-11-2025_nomeacao-AJTI.pdf) |
 | [Banco de Brasília S.A.](https://brb.com.br/)          | 14/10/2024  | [DODF Nº 197, Pág 94, de 14 de Outubro de 2024 - Resultado Final](assets/pdf/concursos/brb/DODF_197_14-10-2024_INTEGRA.pdf) |
 | [Tribunal Regional Federal da 1ª Região](https://www.trf1.jus.br)         | 07/02/2025  | [DOU - Nº 27 - Seção 3, Pág. 189, de 07 de Fevereiro de 2025 - Resultado Final](assets/pdf/concursos/trf1/dou_n27_07-02-2025.pdf) |
 | [Concurso Público Unificado](https://www.gov.br/gestao/pt-br/concursonacional)          | 07/03/2025  | [DOU - Nº 45 - Seção 3, Pág 76, de 07 de Março de 2025 - Resultado Final e convocação Curso de Formação para Analista em Tecnologia da Informação - ATI](assets/pdf/concursos/cnu/dou_n45_07-03-2025.pdf) |
