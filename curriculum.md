@@ -211,9 +211,14 @@ Pós-Graduação "_Latu Sensu_" com 360h de carga horária, realizado pelo [Inst
 
 # Experiência Profissional
 
+
+## Conselho Nacional de Justiça - CNJ
+**Período:** Novembro de 2025 e atualmente em exercício.<br/>
+Analista Judiciário apoio especializado Análise de Sistemas, atuando na Divisão de Gestão do Processo Judicial Eletrônico - DPJE.
+
 ## Tribunal Regional Federal da 1ª Região - TRF1
-**Período:** Julho de 2014 e atualmente em exercício.<br/>
-Técnico Judiciário com apoio especializado em Informática atuando como Administrador de Servidor de Aplicação JEE em ambiente heterogêneo com base em Jboss e Apache Tomcat. Administração de sistemas operacionais Linux. Responsável pela infra-estrutura que suporta os sistemas de Processo Judicial Eletrônico – PJe e SEI.
+**Período:** Julho de 2014 a Novembro de 2025.<br/>
+Técnico Judiciário com apoio especializado em Informática, atuando como Administrador de Servidor de Aplicação JEE em ambiente heterogêneo com base em Jboss e Apache Tomcat. Administração de sistemas operacionais Linux. Responsável pela infra-estrutura que suporta os sistemas de Processo Judicial Eletrônico – PJe e SEI.
 
 ## CTIS Tecnologia S.A.
 **Período:** Maio de 2009 a Junho de 2018.<br/>
