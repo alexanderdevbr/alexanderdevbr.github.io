@@ -294,7 +294,7 @@ Listagem dos Concursos Públicos em que logrei êxito sendo aprovado.
 | [Serviço Federal de Processamento de Dados](https://www.serpro.gov.br)       | 22/11/2023  | [DOU - Nº 221, Seção 3, Pág 106, de 22 de Novembro de 2023 - Resultado Final](assets/pdf/concursos/serpro/DOU_n221_22-11-2023.pdf) |
 |              | 01/02/2024  | [Email SERPRO Convocação fevereiro/2024.2](assets/pdf/concursos/serpro/01-email_convocacao.png) |
 | [Ministério do Planejamento e Orçamento](https://www.gov.br/planejamento/pt-br)          | 30/10/2024  | [DOU - Nº 189. Seção 3, Pág. 148, de 30 de Setembro de 2024 - Resultado Final](assets/pdf/concursos/mpo/DOU_n189_30-09-2024.pdf) |
-|              | 15/12/2025  | [[DOU - Nº 239, Seção 3, Pág 132 e 133, de 16 de Dezembro de 2025 - Convocação Curso de Formação MPO](assets/pdf/concursos/MPO/DOU_N239_16-12-2025.pdf) |
+|              | 15/12/2025  | [DOU - Nº 239, Seção 3, Pág 132 e 133, de 16 de Dezembro de 2025 - Convocação Curso de Formação MPO](assets/pdf/concursos/MPO/DOU_N239_16-12-2025.pdf) |
 | [Conselho Nacional de Justiça](https://www.cnj.jus.br/)          | 21/10/2024  | [DOU - Nº 204, Seção 3, Pág 156, de 21 de Outubro de 2024 - Resultado Final](assets/pdf/concursos/cnj/DOU_n204_21-10-2024.pdf) |
 |              | 17/11/2025  | [DOU - Nº 219, Seção 2, Pág 62, de 17 de Novembro de 2025 - Nomeação CNJ](assets/pdf/concursos/cnj/DOU_n219_17-11-2025_nomeacao-AJTI.pdf) |
 | [Banco de Brasília S.A.](https://brb.com.br/)          | 14/10/2024  | [DODF Nº 197, Pág 94, de 14 de Outubro de 2024 - Resultado Final](assets/pdf/concursos/brb/DODF_197_14-10-2024_INTEGRA.pdf) |
