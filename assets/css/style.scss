@@ -50,3 +50,23 @@ a:hover {
     visibility: hidden;     /* Esconde o div em si */
   }
 }
+
+@media print {
+  body {
+    padding-top: 5px; /* ou margin-top: 30px; */
+  }
+
+  /* Caso a página tenha um cabeçalho de navegação (navbar) que você não quer que seja impresso */
+  header, nav, .menu {
+    display: none !important;
+  }
+}
+
+@page {
+    margin-top: 0cm; /* Ajuste o valor conforme necessário (pode usar cm, mm, in ou px) */
+    
+    /* Opcional: você também pode definir outras margens */
+    /* margin-bottom: 2cm; */
+    /* margin-left: 1.5cm; */
+    /* margin-right: 1.5cm; */
+}
