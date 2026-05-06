@@ -272,12 +272,12 @@ Programador na linguagem Delphi, Programador Web na linguagem PHP, preparação 
 **Período:** Novembro de 1995 a Fevereiro de 2000.<br/>
 Técnico em informática, responsável pela processo de informatização do Cartório. Atuando na definição da topologia de rede de computadores Novell, servidor de arquivos, servidor de impressão e com manutenção de equipamentos. Programador na linguagem CA Clipper e dBASE III para criação dos sistemas voltados para Registro de Imóveis, reconhecimento de Firmas, Registro de Títuloese Documentos e Protestos de Títulos.
 
-<!-- incluindo quebra de página de impressão -->
-<div class="page-break"></div>
-<div class="only-print"><br/><br/></div>
+<!-- ocultando página de impressão -->
+<div class="no-print">
 
 # [Projetos](projetos.md)
 Página com os principais [Projetos](projetos.md) que tive a oportunidade de participar.
+
 
 # Aprovações em Concursos Públicos
 Listagem dos Concursos Públicos em que logrei êxito sendo aprovado.
@@ -320,3 +320,4 @@ Listagem dos Concursos Públicos em que logrei êxito sendo aprovado.
 | [Tribunal Regional Federal da 1ª Região](https://www.trf1.jus.br)         | 07/02/2025  | [DOU - Nº 27 - Seção 3, Pág. 189, de 07 de Fevereiro de 2025 - Resultado Final](assets/pdf/concursos/trf1/dou_n27_07-02-2025.pdf) |
 | [Concurso Público Unificado](https://www.gov.br/gestao/pt-br/concursonacional)          | 07/03/2025  | [DOU - Nº 45 - Seção 3, Pág 76, de 07 de Março de 2025 - Resultado Final e convocação Curso de Formação para Analista em Tecnologia da Informação - ATI](assets/pdf/concursos/cnu/dou_n45_07-03-2025.pdf) |
 | [Tribunal Superior Eleitoral](https://www.tse.jus.br/)          | 01/07/2025  | [DOU - Nº 121 - Seção 3. Pág. 253, de 01 de Julho de 2025 - Resultado Final Pág. 191](assets/pdf/concursos/tse/dou_n121_01-07-2025.pdf) |
+</div>
