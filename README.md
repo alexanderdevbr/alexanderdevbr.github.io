@@ -1,4 +1,5 @@
 {% comment %}
+<!--
 Website criado utilizado o Framework [GoHugo](https://gohugo.io/) para construção deste website, hospedado gratuitamente em [Netlify](https://app.netlify.com).
 
 # Rodando localmente
@@ -6,6 +7,7 @@ Website criado utilizado o Framework [GoHugo](https://gohugo.io/) para construç
 alexander@DESKTOP:~$ cd /mnt/c/Users/alexa/Workspace/alexanderdevbr.github.io/
 alexander@DESKTOP:/mnt/c/Users/alexa/Workspace/alexanderdevbr.github.io$ bundle exec jekyll serve --force_polling
 ```
+-->
 {% endcomment %}
 
 <p align="center" width="100%">
