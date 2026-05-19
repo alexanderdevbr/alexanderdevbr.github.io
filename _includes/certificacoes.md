@@ -1,0 +1,6 @@
+- [Sun Certified Programmer for the Java 2 Platform 1.4 Sun Microsystem](assets/img/certificados/java-scjp.jpg), SCJP, 27/07/2007 – CX-310-035
+- [Sun Certified Web Component Developer for Java Platform Enterprise Edition 5](assets/img/certificados/java-scwcd.jpg), SCWCD, 29/06/2009 – CX-310-083
+- [Oracle Application Server 10g: Administration I](assets/img/certificados/oracle-1z0-311.jpg), OCA, 22/04/2009 – 1Z0-311
+- [Oracle Linux Certified Implementation Specialist](assets/img/certificados/oracle-1z0-409.jpg), 09/12/2015 – 1Z0-409
+- [Oracle Cloud Infraestructure Certified Foundations Associate](assets/img/certificados/oracle-1z0-1085-21.jpg), 30/03/2022 - 1Z0-1085-21
+- [Red Hat Certified JBoss Administrator JBoss EAP 6](assets/img/certificados/redhat-rhcja.jpg), 18/10/2013 – RHCJA

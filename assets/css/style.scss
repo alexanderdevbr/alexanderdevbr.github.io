@@ -31,27 +31,16 @@ a:hover {
 
   /* E mantenha a regra para esconder o outro conteúdo */
   .no-print {
-    display: none;
+    display: none !important;
   }
-}
 
-/* Não imprimir conteúdo dentro da div */
-@media print {
-  .no-print {
-    display: none;
-  }
-}
-
-/* Quebra página*/
-@media print {
+  /* Quebra página*/
   .page-break {
     page-break-after: always; /* Padrão antigo, mas com alta compatibilidade */
     break-after: page;      /* Padrão mais novo */
     visibility: hidden;     /* Esconde o div em si */
   }
-}
 
-@media print {
   body {
     padding-top: 5px; /* ou margin-top: 30px; */
   }

@@ -1,0 +1,5 @@
+- Administração de ambientes Linux;
+- Administração de Servidores de Aplicação Java EE Wildfly;
+- Automação e Infraestrutura como Código (IaC);
+- Programação Orientada a Objetos;
+- Otimização de Aplicações Java e PHP.

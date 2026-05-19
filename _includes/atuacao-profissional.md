@@ -1,0 +1,6 @@
+- Infraestrutura com ênfase na Administração de Servidores de Aplicação Web Java;
+- Administração de Redes e computadores em ambiente Linux Like;
+- Desenvolvimento WEB nas tecnologias Java (JEE) e PHP;
+- Otimização de Algoritmos;
+- Segurança da Informação;
+- Automação de tarefas.
