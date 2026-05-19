@@ -46,4 +46,14 @@ Página com os principais [Projetos](projetos.md) que tive a oportunidade de par
 <https://github.com/alexanderdevbr>
 
 # LinkedIn
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="alexandermorais" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/alexandermorais/pt?trk=profile-badge">Alexander Moreira</a></div>
+<div class="LI-profile-badge" 
+     data-version="v1" 
+     data-size="medium" 
+     data-locale="pt_BR" 
+     data-type="horizontal" 
+     data-theme="dark" 
+     data-vanity="alexandermorais">
+  <a class="LI-simple-link" href='https://br.linkedin.com/in/alexandermorais?trk=profile-badge'>
+    Alexander Moreira de Morais
+  </a>
+</div>
