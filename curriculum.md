@@ -34,9 +34,13 @@ Contato <alex.moreira@gmail.com>
 <div class="page-break"></div>
 <div class="only-print"><br/><br/></div>
 
+
 # Conhecimentos Específicos
 ## Cursos e capacitações
+
+<div id="cursos" markdown="1">
 {% include cursos-capacitacoes.md %}
+</div>
 
 <!-- incluindo quebra de página de impressão -->
 <div class="page-break"></div>
