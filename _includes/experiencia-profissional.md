@@ -1,5 +1,9 @@
+## Ministério do Planejamento e Orçamento - MPO
+**Período:** Junho de 2026 e atualmente em exercício.<br/>
+Analista de Planejamento e Orçamento, atuando na Coordenação de Infraestrutura de Tecnologia da Informação - COINF.
+
 ## Conselho Nacional de Justiça - CNJ
-**Período:** Novembro de 2025 e atualmente em exercício.<br/>
+**Período:** Novembro de 2025 a Junho de 2026.<br/>
 Analista Judiciário apoio especializado Análise de Sistemas, atuando na Divisão de Gestão do Processo Judicial Eletrônico - DPJE.
 
 ## Tribunal Regional Federal da 1ª Região - TRF1

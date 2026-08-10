@@ -24,6 +24,8 @@ Contato por e-mail: <alex.moreira@gmail.com>
 # Sobre
 {% include sobre.md %}
 
+Um viajante assíduo, em conjunto com minha esposa, criamos o perfil [@JaFui.A2](https://instagram.com/jafui.a2) no Instagram para registrar nossas viagens e momentos no intuito de eternizar cada uma de nossas viagens e também poder auxiliar os demais viajantes, compartilhando nosas experiências (_e perrengues_) pelo [Mundo a fora](https://www.google.com/maps/d/u/0/edit?mid=101FO-f_6l5Vx3pBwOoLeR-odUlQ6qtk&usp=sharing).
+
 # Área de Interesse
 {% include area-interesse.md %}
 
